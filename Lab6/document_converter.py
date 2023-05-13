@@ -9,9 +9,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.remote.webelement import WebElement
 from webdriver_manager.chrome import ChromeDriverManager
 
-notebook_path = '/home/choleraplague/university/DataScience/TextAnalysisWithPython/TextAnalysis/Lab5/'
-notebook_name = 'lab5'
-out_name = u'Панченко_Сергій_ІП-11_5.odt'
+notebook_path = '/home/choleraplague/university/DataScience/TextAnalysisWithPython/TextAnalysis/Lab6/'
+notebook_name = 'lab6'
+out_name = u'Панченко_Сергій_ІП-11_6.odt'
 front_path = u'front.odt'
 back_path = u'back.odt'
 
