@@ -1,0 +1,157 @@
+John Smith works at ABC Company.
+The Statue of Liberty is located in New York City.
+Apple Inc. is a technology company.
+Jennifer Lopez is a famous singer and actress.
+London is the capital of England.
+The Golden Gate Bridge spans the San Francisco Bay.
+Microsoft Corporation was founded by Bill Gates and Paul Allen.
+The Mona Lisa is a famous painting by Leonardo da Vinci.
+Paris is known as the City of Love.
+Tesla Motors manufactures electric vehicles.
+George Washington was the first President of the United States.
+The Sydney Opera House is an iconic landmark in Australia.
+Coca-Cola is a popular beverage company.
+Jennifer Lawrence won an Academy Award for her role in "Silver Linings Playbook."
+Rome is the capital of Italy.
+Google is a multinational technology company.
+Mount Kilimanjaro is the highest mountain in Africa.
+Michael Jordan is considered one of the greatest basketball players of all time.
+Tokyo is the capital of Japan.
+Facebook was founded by Mark Zuckerberg.
+The Great Barrier Reef is the largest coral reef system in the world.
+Taylor Swift has won numerous Grammy Awards for her music.
+The Taj Mahal is a UNESCO World Heritage Site in India.
+Amazon.com is an e-commerce giant.
+Albert Einstein developed the theory of relativity.
+New York City is often referred to as the Big Apple.
+SpaceX is a private aerospace manufacturer and space transportation company.
+Leonardo DiCaprio won an Oscar for his performance in "The Revenant."
+The Colosseum is an ancient amphitheater in Rome.
+McDonald's is a global fast food chain.
+Serena Williams is a dominant tennis player.
+The Great Wall of China is a UNESCO World Heritage Site.
+Barack Obama served as the 44th President of the United States.
+The Louvre Museum houses the famous painting, "Mona Lisa."
+London Bridge is an iconic bridge in London, England.
+Amazon Rainforest is known for its rich biodiversity.
+Bill Gates co-founded Microsoft Corporation.
+Mount Everest is the highest peak in the world.
+Oprah Winfrey is a media mogul and philanthropist.
+The White House is the official residence of the President of the United States.
+Vincent van Gogh was a Dutch post-impressionist painter.
+Niagara Falls is a popular tourist attraction in North America.
+Walt Disney created the beloved character Mickey Mouse.
+The Pyramids of Giza are ancient structures in Egypt.
+Cristiano Ronaldo is a world-renowned soccer player.
+Venice is famous for its canals and gondolas.
+NASA is the United States' space agency.
+The Sistine Chapel is located in Vatican City.
+Elvis Presley is known as the King of Rock and Roll.
+The Acropolis is an ancient citadel in Athens, Greece.
+Taylor Swift's album "Fearless" won Album of the Year at the Grammy Awards.
+Berlin Wall was a symbol of the Cold War.
+Martin Luther King Jr. was a civil rights activist.
+The Eiffel Tower is an iconic landmark in Paris, France.
+J.K. Rowling is the author of the Harry Potter book series.
+Mount Rushmore features the faces of four U.S. presidents.
+The Metropolitan Museum of Art is located in New York City.
+    Apple Inc. is headquartered in Cupertino, California.
+    London is the capital of England.
+    Cristiano Ronaldo plays for Manchester United.
+    The Eiffel Tower is located in Paris, France.
+    Serena Williams is a professional tennis player.
+    Amazon.com is an e-commerce giant.
+    New York City is often called the Big Apple.
+    Albert Einstein was a renowned physicist.
+    Taylor Swift is a Grammy-winning singer-songwriter.
+    Tokyo is the capital of Japan.
+    Google is a leading technology company.
+    Mount Everest is the highest peak in the world.
+    Oprah Winfrey is a media mogul and philanthropist.
+    The Great Barrier Reef is the largest coral reef system.
+    Barack Obama served as the 44th President of the United States.
+    Vincent van Gogh was a famous Dutch painter.
+    The Statue of Liberty stands in New York Harbor.
+    Facebook is a social media platform.
+    Sydney Opera House is an iconic landmark in Australia.
+    Elon Musk is the CEO of Tesla and SpaceX.
+    Rome is the capital of Italy.
+    Leonardo da Vinci was a renowned artist and inventor.
+    The Pyramids of Giza are ancient Egyptian structures.
+    Bill Gates co-founded Microsoft Corporation.
+    Mount Kilimanjaro is the highest mountain in Africa.
+    Queen Elizabeth II is the longest-reigning monarch of the United Kingdom.
+    The Taj Mahal is a UNESCO World Heritage Site in India.
+    Steve Jobs co-founded Apple Inc.
+    Paris is known as the City of Love.
+    Michael Jordan is widely regarded as the greatest basketball player of all time.
+    The Colosseum is an ancient amphitheater in Rome.
+    Amazon Rainforest is home to diverse wildlife and plants.
+    Albert Einstein's theory of relativity revolutionized physics.
+    The White House is the official residence of the U.S. President.
+    Walt Disney created beloved characters like Mickey Mouse and Donald Duck.
+    The Louvre Museum houses famous artworks like the Mona Lisa.
+    Serena Williams has won multiple Grand Slam tennis tournaments.
+    NASA is the United States' space agency.
+    Florence Nightingale is considered the founder of modern nursing.
+    Niagara Falls is a popular tourist attraction in North America.
+    Beethoven composed numerous influential classical music pieces.
+    The Acropolis is an ancient citadel in Athens, Greece.
+    Muhammad Ali was a legendary boxer and activist.
+    The Sistine Chapel is known for its breathtaking frescoes.
+    Leonardo DiCaprio won an Academy Award for his role in "The Revenant."
+    Venice is famous for its canals and gondolas.
+    Neil Armstrong was the first person to walk on the moon.
+    The Great Wall of China is a UNESCO World Heritage Site.
+    Marie Curie was a pioneering scientist in the field of radioactivity.
+    Steve Jobs introduced the iPhone, revolutionizing the smartphone industry.
+    Microsoft is planning to acquire a startup in the artificial intelligence space.
+    The Statue of Liberty is a famous landmark in New York City.
+    Elon Musk is the CEO of Tesla and SpaceX.
+    Taylor Swift released her latest album "Folklore" in 2020.
+    London Bridge is located in the heart of the city.
+    Apple's new iPhone model is expected to be released next month.
+    The Eiffel Tower stands tall in the city of Paris.
+    Serena Williams won her 23rd Grand Slam title in 2017.
+    Amazon is known for its fast and reliable delivery service.
+    Rome is the capital city of Italy.
+    Facebook is a popular social media platform worldwide.
+    Albert Einstein was a renowned physicist known for his theory of relativity.
+    The Great Barrier Reef is the largest coral reef system in the world.
+    Barack Obama served as the 44th President of the United States.
+    The Sydney Opera House is an architectural marvel in Australia.
+    Google is a leading technology company known for its search engine.
+    Mount Everest is the highest peak in the Himalayas.
+    Oprah Winfrey is a media mogul and philanthropist.
+    The Colosseum in Rome is a historical amphitheater.
+    Steve Jobs co-founded Apple Inc. and revolutionized the tech industry.
+    Tokyo is the capital city of Japan.
+    Vincent van Gogh was a famous Dutch painter.
+    The Pyramids of Giza are ancient structures in Egypt.
+    Bill Gates co-founded Microsoft and is a prominent philanthropist.
+    Mount Kilimanjaro is the highest mountain in Africa.
+    Queen Elizabeth II is the longest-reigning monarch in British history.
+    The Taj Mahal is a UNESCO World Heritage Site in India.
+    Mark Zuckerberg is the CEO of Facebook.
+    Paris is known as the "City of Light."
+    Michael Jordan is considered one of the greatest basketball players of all time.
+    The Louvre Museum houses the famous painting "Mona Lisa."
+    Serena Williams is a tennis legend and has won multiple Grand Slam titles.
+    NASA is the United States' space agency.
+    Florence Nightingale is known as the founder of modern nursing.
+    Niagara Falls is a popular tourist attraction on the border of the United States and Canada.
+    Ludwig van Beethoven composed symphonies and sonatas.
+    The Acropolis is an ancient citadel in Athens, Greece.
+    Muhammad Ali was a legendary boxer and social activist.
+    The Sistine Chapel in Vatican City showcases stunning frescoes by Michelangelo.
+    Leonardo DiCaprio won an Academy Award for his role in "The Revenant."
+    Venice is known for its beautiful canals and gondolas.
+    Neil Armstrong was the first person to walk on the moon.
+    The Great Wall of China is a UNESCO World Heritage Site.
+    Marie Curie was a pioneering scientist in the field of radioactivity.
+    Steve Jobs introduced the iPhone, changing the smartphone industry.
+    London is famous for its iconic red double-decker buses.
+    Albert Einstein's contributions to physics earned him the Nobel Prize.
+    The Golden Gate Bridge spans the entrance to the San Francisco Bay.
+    Amelia Earhart was a pioneering aviator and the first woman to fly solo across the Atlantic.
+    Martin Luther King Jr. was a prominent leader in the civil rights movement.
